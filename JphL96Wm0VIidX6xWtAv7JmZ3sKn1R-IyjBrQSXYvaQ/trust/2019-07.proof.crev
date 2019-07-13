@@ -1,0 +1,48 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-07-13T02:02:18.154826+02:00"
+from:
+  id-type: crev
+  id: JphL96Wm0VIidX6xWtAv7JmZ3sKn1R-IyjBrQSXYvaQ
+  url: "https://github.com/Alxandr/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+-----BEGIN CREV TRUST SIGNATURE-----
+yQYn1uLuxGSJVzwsVTaP5cyXuyOZ-Rp_Un20Qsk8B8yWWVNMdAYa0zmiFIWMo8grhICnnVqhru_W_Ka-lzc5Dg
+-----END CREV TRUST-----
+
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-07-13T02:05:13.465225+02:00"
+from:
+  id-type: crev
+  id: JphL96Wm0VIidX6xWtAv7JmZ3sKn1R-IyjBrQSXYvaQ
+  url: "https://github.com/Alxandr/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+-----BEGIN CREV TRUST SIGNATURE-----
+TCTF4NZGAtpn5orOWLl8-4nsxAATm_MW9Oy6O45yfXMnAoDu9X3e2PSVQ2nitpwTkREuYWN0-sZHhRfcW19ZDw
+-----END CREV TRUST-----
+
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-07-13T02:06:01.283104+02:00"
+from:
+  id-type: crev
+  id: JphL96Wm0VIidX6xWtAv7JmZ3sKn1R-IyjBrQSXYvaQ
+  url: "https://github.com/Alxandr/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+-----BEGIN CREV TRUST SIGNATURE-----
+pn2J8EIlbvenMx4zlIlquQYe9yA0FG3ozJ-Zd6NpWUOym-qiAi2awHNgFozkIc00YFQu3YonVEOkVa0dTqEiCA
+-----END CREV TRUST-----
+
