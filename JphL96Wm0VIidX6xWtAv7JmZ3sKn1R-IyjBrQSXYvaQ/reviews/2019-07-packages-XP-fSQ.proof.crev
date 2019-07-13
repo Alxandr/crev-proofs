@@ -1,0 +1,21 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-07-13T22:29:31.425394+02:00"
+from:
+  id-type: crev
+  id: JphL96Wm0VIidX6xWtAv7JmZ3sKn1R-IyjBrQSXYvaQ
+  url: "https://github.com/Alxandr/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: strsim
+  version: 0.7.0
+  digest: ig3Rv-MrvH1kDWtwhkRAItuKJ0CVos6JLpKFaAKfZ1c
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: "I don't claim to understand all the algorithms, but it seems to do what it claims, and has a bunch of tests to showcase it."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+pGQW0l3jO859zq2o3EnVgAiryNYispR13x-VFDb6fIIPvVsp8xx2f3XfhcZsGaGVu8AmO_fjZe67GcBHMSUECQ
+-----END CREV PACKAGE REVIEW-----
+
